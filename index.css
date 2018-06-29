@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Montserrat|Shrikhand|VT323');
+
+body {
+    text-align: center;
+    background: linear-gradient(to left, #c31432, whitesmoke, #7aa1d2)}
+.title h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 60px;
+}
+.title h3 {
+    line-height: 0;
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+}
+#bleu {
+    color: blue;
+}
+#blanc {
+    color: white;
+}
+
+#rouge {
+    color: red;
+}
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 20px;
+}
+#generateur {
+    font-family: 'Bad Script', cursive;
+    font-size: 45px;
+    margin-top: 100px;
+}
+img {
+    position: fixed;
+    bottom: 0;
+}
